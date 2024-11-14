@@ -1,0 +1,6 @@
+![[Pasted image 20241113214608.png]]
+[[TCCSTATE]]
+![[Pasted image 20241113214857.png]]
+Надо будет как следует разобраться в [[elf]]
+![[Pasted image 20241113220549.png]]
+[[SHT_RELX]]

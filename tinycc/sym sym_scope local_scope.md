@@ -1,0 +1,5 @@
+![[Pasted image 20241112183044.png]]
+[[sym->sym_scope]] [[local_scope]]
+![[Pasted image 20241112184251.png]]
+![[Pasted image 20241112184309.png]]
+[[btype.ref->v]]
