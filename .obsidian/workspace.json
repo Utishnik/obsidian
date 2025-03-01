@@ -1,66 +1,28 @@
 {
   "main": {
-    "id": "85c57215b12c8aa1",
+    "id": "f26c8ef061d73fbb",
     "type": "split",
     "children": [
       {
-        "id": "6b2dac397c5ea69d",
+        "id": "07afa7f909491eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "93709c7e9a801786",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "31bd6439b35b9dc5",
+            "id": "afb0124a2c350cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tinycc/Запись в стек, парсинг скобок и тд.md",
+                "file": "DDNET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запись в стек, парсинг скобок и тд"
+              "title": "DDNET"
             }
           },
           {
-            "id": "051c4074f7abdb5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cling"
-            }
-          },
-          {
-            "id": "3b5c6341dbf7a8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tinycc/tccgen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tccgen"
-            }
-          },
-          {
-            "id": "ecd91762e6c49e1c",
+            "id": "a3a6c24f20c4d8b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,45 +34,36 @@
               "icon": "lucide-file",
               "title": "mcp"
             }
-          },
-          {
-            "id": "0a6d5c39430750d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e930d5592cdb4ca7",
+    "id": "b99bdad584b70242",
     "type": "split",
     "children": [
       {
-        "id": "3da216ebe822d22f",
+        "id": "2914af8b1231b141",
         "type": "tabs",
         "children": [
           {
-            "id": "733d6573a35ac33a",
+            "id": "fa7c8b77990ba302",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
           },
           {
-            "id": "c3d0d63076ce79cb",
+            "id": "0b52eab527058c14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -127,7 +80,7 @@
             }
           },
           {
-            "id": "c81c1f61cc2aa4ee",
+            "id": "c8874e1383a1332d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -143,20 +96,19 @@
     "width": 300
   },
   "right": {
-    "id": "c79cc7bd846f2ce2",
+    "id": "8dc12b808c56ef39",
     "type": "split",
     "children": [
       {
-        "id": "52bfafd77ed9fa49",
+        "id": "3fc881937bcecaf0",
         "type": "tabs",
         "children": [
           {
-            "id": "f484af6a8173c5ff",
+            "id": "a203f73f34374182",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tinycc/libtcc1 разбираюсь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,11 +118,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для libtcc1 разбираюсь"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "1ae1c8b1fa6f7312",
+            "id": "e2efae3d8c4d0225",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -183,24 +135,30 @@
             }
           },
           {
-            "id": "47d6593686fa1980",
+            "id": "ae35770eba1fd523",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
             }
           },
           {
-            "id": "fd8043f9116bbe19",
+            "id": "d2b1a048b8dda770",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Структура"
             }
@@ -209,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -222,47 +180,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "051c4074f7abdb5f",
+  "active": "a3a6c24f20c4d8b0",
   "lastOpenFiles": [
-    "Pasted image 20250109020346.png",
-    "Pasted image 20250109015838.png",
-    "Pasted image 20250109015823.png",
-    "DDNET.md",
-    "Pasted image 20250108234051.png",
-    "Pasted image 20250108234043.png",
-    "Pasted image 20250108225046.png",
-    "Pasted image 20250108223241.png",
-    "Pasted image 20250108223019.png",
-    "Pasted image 20250108221604.png",
-    "Pasted image 20250108221558.png",
-    "Pasted image 20250108203130.png",
-    "tinycc/tccgen.md",
-    "mcp.md",
-    "cling.md",
-    "спинеры.md",
-    "tinycc/Запись в стек, парсинг скобок и тд.md",
-    "tinycc/output_type.md",
-    "tinycc/file.md",
-    "tinycc/обработка выражений.md",
-    "tinycc/чтоб не забыть.md",
-    "tinycc/decl_initializer_alloc.md",
-    "tinycc/задачка.md",
-    "SQLITE/SUBQUERY.md",
-    "tinycc/typeof.md",
-    "tinycc/local_stack.md",
-    "SQLITE/expr.md",
-    "tinycc/gv(int rc).md",
-    "трансформаторы(gpt).md",
-    "Криптография.md",
-    "tinycc/tccelf.md",
-    "tinycc/tccpp.md",
-    "tinycc/todo.md",
-    "tinycc/tccrun.md",
-    "tinycc/tccr.md",
-    "terminal.md",
-    "tinycc/type.t.canvas",
-    "tinycc",
-    "SQLITE",
-    "todo"
+    "Pasted image 20250301181043.png",
+    "Pasted image 20250301180510.png",
+    "Pasted image 20250301180434.png",
+    "Pasted image 20250301175857.png",
+    "Pasted image 20250301174734.png",
+    "Pasted image 20250301135747.png",
+    "Pasted image 20250301135601.png",
+    "Pasted image 20250301135521.png",
+    "Pasted image 20250301135443.png",
+    "Pasted image 20250301135428.png",
+    "Pasted image 20250301135247.png",
+    "mcp.md"
   ]
 }
