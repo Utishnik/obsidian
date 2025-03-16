@@ -279,3 +279,49 @@ poi от секций наследован![[Pasted image 20250301022458.png]]
 ![[Pasted image 20250301180510.png]]
 ![[Pasted image 20250301181043.png]]
 тут я остановился
+![[Pasted image 20250301222359.png]]
+![[Pasted image 20250302002100.png]]
+![[Pasted image 20250302004207.png]]
+![[Pasted image 20250302010828.png]]
+вот так я понимаю работает сохранения в модах.
+![[Pasted image 20250302011505.png]]
+не совсем понятно как.![[Pasted image 20250302012407.png]]
+поидеи за каждый write прибовляется размер.![[Pasted image 20250302012641.png]]
+не понимаю как это с этим всем связаноо
+![[Pasted image 20250302012838.png]]
+![[Pasted image 20250302012905.png]]
+![[Pasted image 20250302013240.png]]
+потом это еще гляну
+![[Pasted image 20250302013307.png]]
+![[Pasted image 20250302013539.png]]
+мне кажется что это попытка записать но сжато типо вместо 1000011111 писать записать 
+что то типа 1 индек первого 0 индекс второгой индекц первой 1 индекс второй 1.![[Pasted image 20250302013734.png]]
+![[Pasted image 20250302013947.png]]
+тут j и он же сдвинутый на const в параметре.
+![[Pasted image 20250302014314.png]]
+не находит использование.![[Pasted image 20250302170504.png]]
+![[Pasted image 20250302170556.png]]
+![[Pasted image 20250302172450.png]]
+![[Pasted image 20250302181039.png]]
+![[Pasted image 20250302182944.png]]
+![[Pasted image 20250302184054.png]]
+![[Pasted image 20250302184742.png]]
+![[Pasted image 20250302192314.png]]
+[[storage]] тут и там связан.
+![[Pasted image 20250302214623.png]]
+![[Pasted image 20250302215329.png]]
+я плохо в джаве понимаю но мне кажется что он это значение получает.
+![[Pasted image 20250302215430.png]]
+один и тот же тип данных.
+
+![[Pasted image 20250303231233.png]]
+![[Pasted image 20250303231619.png]]
+![[Pasted image 20250303232345.png]]
+![[Pasted image 20250303232350.png]]
+![[Pasted image 20250303232429.png]]
+![[Pasted image 20250303234639.png]]
+![[Pasted image 20250303234834.png]]
+не совсем понимаю где она заполняется![[Pasted image 20250303235018.png]]
+![[Pasted image 20250303235030.png]]
+![[Pasted image 20250303235423.png]]
+![[Pasted image 20250316204323.png]]
