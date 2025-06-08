@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tinycc/tccgen.md",
+                "file": "DDNET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tccgen"
+              "title": "DDNET"
             }
           }
         ]
@@ -165,25 +165,28 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fa7c8b77990ba302",
+  "active": "a3a6c24f20c4d8b0",
   "lastOpenFiles": [
-    "Без названия.canvas",
+    "Pasted image 20250608170747.png",
+    "ddnet избраное.md",
     "mcp.md",
-    "Pasted image 20250316204323.png",
-    "DDNET.md",
+    "Pasted image 20250415232914.png",
+    "Pasted image 20250415232733.png",
+    "Pasted image 20250415232226.png",
+    "Pasted image 20250415232219.png",
+    "Pasted image 20250415231915.png",
+    "Pasted image 20250415231208.png",
+    "Pasted image 20250406161215.png",
+    "Pasted image 20250406014426.png",
+    "Pasted image 20250406014252.png",
+    "Pasted image 20250406014219.png",
+    "tinycc/tccpp.md",
     "tinycc/tccgen.md",
+    "cling.md",
+    "Без названия.canvas",
+    "DDNET.md",
     "tinycc/tccrun.md",
     "tinycc/todo.md",
-    "tinycc/tccpp.md",
-    "tinycc/tccelf.md",
-    "Pasted image 20250303235423.png",
-    "Pasted image 20250303235030.png",
-    "Pasted image 20250303235018.png",
-    "Pasted image 20250303234834.png",
-    "Pasted image 20250303234639.png",
-    "Pasted image 20250303232429.png",
-    "Pasted image 20250303232350.png",
-    "Pasted image 20250303232345.png",
-    "Pasted image 20250303231619.png"
+    "tinycc/tccelf.md"
   ]
 }
