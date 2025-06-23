@@ -93,3 +93,6 @@ if ((nb & (nb - 1)) == 0)
 ![[Pasted image 20250326005428.png]]
 ![[Pasted image 20250326005458.png]]
 ![[Pasted image 20250326005552.png]]
+![[Pasted image 20250622234910.png]]
+![[Pasted image 20250622235001.png]]
+![[Pasted image 20250623222140.png]]
