@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tinycc/tccgen.md",
+                "file": "mcp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tccgen"
+              "title": "mcp"
             }
           }
         ]
@@ -167,24 +167,24 @@
   },
   "active": "a3a6c24f20c4d8b0",
   "lastOpenFiles": [
-    "Pasted image 20250623222140.png",
-    "Pasted image 20250622235001.png",
-    "Pasted image 20250622234910.png",
+    "Pasted image 20250702015604.png",
+    "Pasted image 20250702014115.png",
+    "Pasted image 20250702010942.png",
+    "Pasted image 20250702010920.png",
+    "Pasted image 20250702004857.png",
+    "Pasted image 20250701212129.png",
+    "Pasted image 20250701211836.png",
+    "Pasted image 20250701211458.png",
+    "Pasted image 20250701211412.png",
+    "Pasted image 20250701210818.png",
+    "Pasted image 20250701210737.png",
+    "tinycc/tccgen.md",
     "mcp.md",
-    "Pasted image 20250622165656.png",
-    "Pasted image 20250622165601.png",
-    "Pasted image 20250622165343.png",
-    "Pasted image 20250620012419.png",
-    "Pasted image 20250620012309.png",
-    "Pasted image 20250620012255.png",
-    "Pasted image 20250620011921.png",
-    "Pasted image 20250620011517.png",
     "DDNET.md",
     "zluda.md",
     "zlib.md",
     "ddnet избраное.md",
     "tinycc/tccpp.md",
-    "tinycc/tccgen.md",
     "cling.md",
     "Без названия.canvas",
     "tinycc/tccrun.md",

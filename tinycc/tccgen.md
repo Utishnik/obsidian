@@ -96,3 +96,6 @@ if ((nb & (nb - 1)) == 0)
 ![[Pasted image 20250622234910.png]]
 ![[Pasted image 20250622235001.png]]
 ![[Pasted image 20250623222140.png]]
+![[Pasted image 20250623223254.png]]
+![[Pasted image 20250623223414.png]]
+архитектурно зависимая
