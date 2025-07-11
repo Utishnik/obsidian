@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mcp.md",
+                "file": "DDNET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mcp"
+              "title": "DDNET"
             }
           },
           {
@@ -179,32 +179,42 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fa7c8b77990ba302",
+  "active": "a3a6c24f20c4d8b0",
   "lastOpenFiles": [
+    "2025-07-12 02-33-15.mkv",
+    "Pasted image 20250712023138.png",
+    "Pasted image 20250712023123.png",
+    "Pasted image 20250712023106.png",
+    "Pasted image 20250712014818.png",
+    "tinycc/tccgen.md",
+    "tinycc/tccpp.md",
+    "tinycc/tccrun.md",
+    "tinycc/todo.md",
+    "tinycc/type.t.canvas",
+    "tinycc/typeof.md",
+    "11.11.24.md",
+    "диффуры.md",
+    "Криптография.md",
+    "Без названия.canvas",
+    "mcp.md",
+    "network важное.md",
+    "DDNET.md",
+    "tinycc/чтоб не забыть.md",
+    "мат анализа.md",
+    "tinycc/задачка.md",
+    "ddnet избраное.md",
+    "Pasted image 20250712011710.png",
+    "Pasted image 20250712011703.png",
+    "Pasted image 20250712011651.png",
+    "tinycc/libtcc1 разбираюсь.md",
     "Pasted image 20250709025359.png",
     "tg.md",
     "Pasted image 20250707015129.png",
-    "mcp.md",
     "Без названия",
     "Pasted image 20250707014304.png",
-    "Pasted image 20250707012922.png",
-    "Pasted image 20250705023105.png",
-    "Pasted image 20250705023031.png",
-    "Pasted image 20250705021945.png",
-    "Pasted image 20250705021226.png",
-    "Pasted image 20250704000052.png",
-    "Pasted image 20250703233143.png",
-    "Pasted image 20250703233127.png",
-    "tinycc/tccgen.md",
-    "DDNET.md",
     "zluda.md",
     "zlib.md",
-    "ddnet избраное.md",
-    "tinycc/tccpp.md",
     "cling.md",
-    "Без названия.canvas",
-    "tinycc/tccrun.md",
-    "tinycc/todo.md",
     "tinycc/tccelf.md"
   ]
 }
