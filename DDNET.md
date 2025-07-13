@@ -569,3 +569,7 @@ Freq это наверное частота.
 ![[Pasted image 20250713020114.png]]
 ![[Pasted image 20250713021413.png]]
 ![[Pasted image 20250713021455.png]]
+![[Pasted image 20250714010848.png]]
+страная конструкция не понимаю зачем так делают![[Pasted image 20250714011516.png]]
+![[Pasted image 20250714012820.png]]
+![[Pasted image 20250714023347.png]]

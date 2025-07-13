@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "c81b3cd91e29a26f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250713021455.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250713021455"
+            }
+          },
+          {
             "id": "e2b4a910270bde99",
             "type": "leaf",
             "state": {
@@ -181,18 +193,19 @@
   },
   "active": "a3a6c24f20c4d8b0",
   "lastOpenFiles": [
+    "Pasted image 20250714023347.png",
+    "Pasted image 20250714012820.png",
+    "Pasted image 20250714011516.png",
+    "Pasted image 20250714010848.png",
     "Pasted image 20250713021455.png",
+    "DDNET.md",
     "Pasted image 20250713021413.png",
     "Pasted image 20250713020114.png",
     "Pasted image 20250713015648.png",
     "Pasted image 20250713015332.png",
     "Pasted image 20250713015303.png",
     "Pasted image 20250713004502.png",
-    "Pasted image 20250713001202.png",
     "2025-07-12 02-33-15.mkv",
-    "Pasted image 20250712023138.png",
-    "Pasted image 20250712023123.png",
-    "Pasted image 20250712023106.png",
     "tinycc/tccgen.md",
     "tinycc/tccpp.md",
     "tinycc/tccrun.md",
@@ -205,7 +218,6 @@
     "Без названия.canvas",
     "mcp.md",
     "network важное.md",
-    "DDNET.md",
     "tinycc/чтоб не забыть.md",
     "мат анализа.md",
     "tinycc/задачка.md",
