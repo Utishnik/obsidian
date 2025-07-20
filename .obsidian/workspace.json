@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "c81b3cd91e29a26f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250713021455.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250713021455"
-            }
-          },
-          {
             "id": "e2b4a910270bde99",
             "type": "leaf",
             "state": {
@@ -193,17 +181,17 @@
   },
   "active": "a3a6c24f20c4d8b0",
   "lastOpenFiles": [
-    "Pasted image 20250716031004.png",
-    "Pasted image 20250716024136.png",
-    "Pasted image 20250716013000.png",
-    "Pasted image 20250716011004.png",
-    "Pasted image 20250716010904.png",
-    "Pasted image 20250716010742.png",
-    "Pasted image 20250716004359.png",
-    "Pasted image 20250716003554.png",
-    "Pasted image 20250716002937.png",
-    "Pasted image 20250716002918.png",
-    "Pasted image 20250714024354.png",
+    "Pasted image 20250719010338.png",
+    "Pasted image 20250719010238.png",
+    "Pasted image 20250719010146.png",
+    "Pasted image 20250719005407.png",
+    "Pasted image 20250719004919.png",
+    "Pasted image 20250719004442.png",
+    "Pasted image 20250719003332.png",
+    "Pasted image 20250719002806.png",
+    "Pasted image 20250719002733.png",
+    "Pasted image 20250719002119.png",
+    "Pasted image 20250719001932.png",
     "DDNET.md",
     "2025-07-12 02-33-15.mkv",
     "tinycc/tccgen.md",
