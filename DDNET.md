@@ -682,4 +682,17 @@ Freq это наверное частота.
 ![[Pasted image 20250727191323.png]]
 ![[Pasted image 20250727192604.png]]
 ![[Pasted image 20250727192708.png]]
-функции именно внутреняя для работы не вызывается на прямую в client/gameclient
+функции именно внутреняя для работы не вызывается на прямую в client/gameclient![[Pasted image 20250727232633.png]]
+![[Pasted image 20250727232705.png]]
+![[Pasted image 20250727232850.png]]
+![[Pasted image 20250727232932.png]]
+![[Pasted image 20250727234608.png]]
+![[Pasted image 20250727234618.png]]
+![[Pasted image 20250727235833.png]]
+я не пойму вроде в дднет вся логика должна быть вынесена на сервер но там есть на клиенте что типо логика хука.![[Pasted image 20250728000521.png]]
+![[Pasted image 20250728010815.png]]
+![[Pasted image 20250728010906.png]]
+![[Pasted image 20250728010916.png]]
+![[Pasted image 20250728011431.png]]
+ВОТ управление
+ладно щас не надолго к tinycc вернусь.
